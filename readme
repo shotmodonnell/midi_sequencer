@@ -1,0 +1,3 @@
+A midi sequencer which runs on a small arduino, outputting over the serial bus into a midi cable.
+
+Can be expanded to do more things, try it!
